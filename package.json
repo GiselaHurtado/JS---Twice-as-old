@@ -1,0 +1,23 @@
+{
+  "name": "js---twice-as-old",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   "type": "module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselaHurtado/JS---Twice-as-old.git"
+  },
+  "author": "Gisela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiselaHurtado/JS---Twice-as-old/issues"
+  },
+  "homepage": "https://github.com/GiselaHurtado/JS---Twice-as-old#readme",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
